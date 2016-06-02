@@ -10,7 +10,7 @@
 # bits.
 #
 # By default this script does nothing.
-
+# just comment
 sleep 25
 openvpn --config /etc/openvpn/test-0001.conf --auth-user-pass /etc/openvpn/cred.txt &
 
